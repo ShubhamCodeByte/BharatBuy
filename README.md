@@ -20,10 +20,6 @@ Styling: Tailwind CSS
 
 Routing: React Router
 
-Backend: Node.js (Express) or Firebase (if applicable)
+Authentication: JWT-based authentication
 
-Database: MongoDB / Firebase Firestore
 
-Authentication: Firebase Auth / JWT-based authentication
-
-Payment Gateway: Razorpay / Stripe Integration
